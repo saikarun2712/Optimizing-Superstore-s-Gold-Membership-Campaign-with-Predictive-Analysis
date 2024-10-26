@@ -89,3 +89,5 @@ By contacting the top 40% of customers identified by the model, the superstore c
 
 ## Conclusion
 The Gradient Boosting model provides an effective, data-driven approach for optimizing the Gold Membership marketing campaign. This targeted strategy will enable the superstore to efficiently allocate resources, achieve substantial cost savings, and build stronger customer loyalty through personalized outreach.
+
+## THIS PROJECT IS TAKEN FROM GITHUB
